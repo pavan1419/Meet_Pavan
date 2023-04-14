@@ -1,8 +1,9 @@
 import Head from "next/head";
+
 export default function Head1() {
   return (
     <Head>
-      <script src='https://cdn.tailwindcss.com'></script>
+      
       <title>Meet pavan Landing Page </title>
       <link
         rel='icon'
